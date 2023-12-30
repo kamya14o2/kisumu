@@ -13,14 +13,9 @@ title: "About me"
 <!-- Text gets a column with width 8/12 -->
 ::: {.g-col-8}
 
-My name is Kamya Khandelwal and I am a City Planning student with Urban Design focus from the University of Pennsylvania, and three years experience in urban
-development and community engagement. I am looking forward to applying design and planning skills for transformative projects.
+My name is [Kamya Khandelwal](www.linkedin.com/in/kamya-khandelwal) (bottom) and I am a City Planning student with Urban Design focus from the University of Pennsylvania, and three years experience in urban development and community engagement. I am looking forward to applying design and planning skills for transformative projects.
 
-This site is an example site showing how to use Quarto for 
-the final project for [MUSA 550](https://musa-550-fall-2023.github.io/),
-during fall 2023. 
-
-
+I have created this project using Python, rendering on Quarto and published through Github pages. 
 ::: 
 
 :::
