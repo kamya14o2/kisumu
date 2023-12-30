@@ -1,0 +1,24 @@
+---
+title: "About me"
+---
+
+<!-- Use a grid -->
+::: {.grid}
+
+<!-- Left column has a width of 4/12 and shows a picture of me -->
+::: {.g-col-4}
+![](images/kamyakhandelwal-profile.jpg){width=3in}
+:::
+
+<!-- Text gets a column with width 8/12 -->
+::: {.g-col-8}
+
+My name is [Kamya Khandelwal](www.linkedin.com/in/kamya-khandelwal) (bottom) and I am a City Planning student with Urban Design focus from the University of Pennsylvania, and three years experience in urban development and community engagement. I am looking forward to applying design and planning skills for transformative projects.
+
+I have created this project using Python, rendering on Quarto and published through Github pages. 
+::: 
+
+:::
+
+
+
